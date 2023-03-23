@@ -6,7 +6,7 @@
   <class-loader delegate="true"/>
   <jsp-config>
     <property name="keepgenerated" value="true">
-      <description>Keep a copy of the generated servlet class' java code.</description>
+      <description>Description</description>
     </property>
   </jsp-config>
 </glassfish-web-app>
