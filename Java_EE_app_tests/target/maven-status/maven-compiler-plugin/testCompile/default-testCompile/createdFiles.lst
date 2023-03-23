@@ -1,0 +1,10 @@
+foltan\javaee\test\app\controller\UserLoginControllerTest.class
+foltan\javaee\test\app\dao\JpaTest.class
+foltan\javaee\test\app\bean\UserSessionBeanTest.class
+foltan\javaee\test\app\dao\NoteDaoJpaTest.class
+foltan\javaee\test\app\model\BaseEntityTest.class
+foltan\javaee\test\app\model\BaseEntityTest$FakeBaseEntity.class
+foltan\javaee\test\app\controller\NoteViewControllerTest.class
+foltan\javaee\test\app\controller\NoteEditControllerTest.class
+foltan\javaee\test\app\controller\NoteListControllerTest.class
+foltan\javaee\test\app\dao\UserDaoJpaTest.class

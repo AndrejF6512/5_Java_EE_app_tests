@@ -1,0 +1,14 @@
+foltan\javaee\test\app\controller\UserLoginController.class
+foltan\javaee\test\app\dao\UserDao.class
+foltan\javaee\test\app\bean\producer\HttpParams.class
+foltan\javaee\test\app\controller\NoteListController.class
+foltan\javaee\test\app\bean\startup\StartupBean.class
+foltan\javaee\test\app\bean\UserSessionBean.class
+foltan\javaee\test\app\model\User.class
+foltan\javaee\test\app\controller\NoteViewController.class
+foltan\javaee\test\app\controller\NoteEditController.class
+foltan\javaee\test\app\bean\producer\HttpParam.class
+foltan\javaee\test\app\model\ModelFactory.class
+foltan\javaee\test\app\dao\NoteDao.class
+foltan\javaee\test\app\model\BaseEntity.class
+foltan\javaee\test\app\model\Note.class
